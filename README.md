@@ -1,6 +1,12 @@
 # CNN Task for Project Members:
 
-**Convolution Neural Networks are a core class of Neural Networks that are often operated on visual imagery. CNN architectures are commonly used for [Image Classification](https://www.thinkautomation.com/eli5/eli5-what-is-image-classification-in-deep-learning/), implement ResNet18 from scratch.** 
+**Convolution Neural Networks are a core class of Neural Networks that are often operated on visual imagery. CNN architectures are commonly used for [Image Classification](https://www.thinkautomation.com/eli5/eli5-what-is-image-classification-in-deep-learning/), implement ResNet18 from scratch. Make your submission using the following steps:**
+- Fork and clone this Github repository.
+- Create a new branch and set its name to your “Name”.
+- Create a folder named "Name" (or Handle) in which you have all the contents of whatever submission you wanna make.
+- Merge your branch with the master branch.
+- Pull origin & add files, commit and push to fork.
+- Create pull request on main repo.
 
 Brownie Points for implementing any ResNet (takes block and layers)
 
